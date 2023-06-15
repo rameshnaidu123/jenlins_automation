@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-15T19:03:18 IST" name="Practice Suite" finished-at="2023-06-15T19:03:37 IST" duration-ms="18073">
+    <groups>
+    </groups>
+    <test started-at="2023-06-15T19:03:18 IST" name="Test Basics 1" finished-at="2023-06-15T19:03:37 IST" duration-ms="18073">
+      <class name="com.qa.tests.SampleTest">
+        <test-method is-config="true" signature="beforeTestt(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.SampleTest@8458f04]" started-at="2023-06-15T19:03:28 IST" name="beforeTestt" finished-at="2023-06-15T19:03:34 IST" duration-ms="6251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ZD222BKMH6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ramesh Phone]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[UiAutomator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestt -->
+        <test-method signature="f()[pri:0, instance:com.qa.tests.SampleTest@8458f04]" started-at="2023-06-15T19:03:34 IST" name="f" finished-at="2023-06-15T19:03:37 IST" duration-ms="2336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.qa.tests.SampleTest -->
+      <class name="com.qa.tests.Sample22Test">
+        <test-method is-config="true" signature="beforeTestt(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.Sample22Test@3ba987b8]" started-at="2023-06-15T19:03:18 IST" name="beforeTestt" finished-at="2023-06-15T19:03:26 IST" duration-ms="7125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ZD222BKMH6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ramesh Phone]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[UiAutomator2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestt -->
+        <test-method signature="basicStartMethod()[pri:0, instance:com.qa.tests.Sample22Test@3ba987b8]" started-at="2023-06-15T19:03:26 IST" name="basicStartMethod" finished-at="2023-06-15T19:03:28 IST" duration-ms="2317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicStartMethod -->
+      </class> <!-- com.qa.tests.Sample22Test -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- Practice Suite -->
+</testng-results>

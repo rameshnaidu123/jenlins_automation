@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite">
+    <test name="Test Basics 1">
+        <parameter name="emulator" value="true" />
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="ZD222BKMH6" />
+        <parameter name="deviceName" value="Ramesh Phone" />
+        <parameter name="systemPort" value="10000" />
+        <parameter name="automationName" value="UiAutomator2" />
+        <parameter name="chromeDriverPort" value="11000" />
+        <parameter name="emailid" value="tester456@gmail.com"/>
+        <parameter name="password" value="test@123"/>
+        <classes>
+            <class name="com.qa.tests.Sample22Test" />
+            <class name="com.qa.tests.SampleTest" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+        <!-- ZD222BKMH6 -->
