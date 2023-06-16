@@ -33,5 +33,9 @@ driver.executeScript("mobile:swipeGesture",ImmutableMap.of(
 "percent",0.80
 
 ));
+
+Thread.sleep(5000);
+driver.quit();
+
   }
 }
